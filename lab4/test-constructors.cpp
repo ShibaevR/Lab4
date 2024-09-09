@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cassert>
 #include <string>
-#include <cmath>
 
 #include "test-constructors.h"
 #include "binary-tree.h"
