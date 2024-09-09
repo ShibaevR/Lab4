@@ -78,12 +78,4 @@ void TestConstructors(){
     tree_1.~BinaryTree();
     tree_2.~BinaryTree();
     tree_3.~BinaryTree();
-
-    int a = 0;
-    for(int i=0; i < 14; i++){
-        a += pow(2, i);
-    }
-    std::cout<<a;
-
-
 }
