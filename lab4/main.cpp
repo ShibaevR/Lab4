@@ -17,6 +17,8 @@ int main() {
     TestConstructors();
     TestOperations();
 
+    std::cout<<"\nAll tests completed successfully\n";
+
     UserInterface();
 
 
